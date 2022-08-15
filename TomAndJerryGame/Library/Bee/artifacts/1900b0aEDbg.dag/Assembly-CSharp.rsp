@@ -358,12 +358,11 @@
 -r:"Library/Bee/artifacts/1900b0aEDbg.dag/Unity.VSCode.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aEDbg.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aEDbg.dag/UnityEngine.UI.ref.dll"
-"Assets/Cannon_Assets/Finished_Scene/CrashSound.cs"
-"Assets/Cannon_Assets/Finished_Scene/LaunchProjectileFinished.cs"
-"Assets/Cannon_Assets/Finished_Scene/Launch_with_Audio.cs"
 "Assets/Scripts/CameraController.cs"
 "Assets/Scripts/PlayerController.cs"
 "Assets/Scripts/Throwing.cs"
+"Assets/SiuniaevCharacters/01_GamblerCat/Scripts/AnimationButton.cs"
+"Assets/SiuniaevCharacters/01_GamblerCat/Scripts/CharacterRotator.cs"
 "Assets/TutorialInfo/Scripts/Readme.cs"
 -langversion:9.0
 

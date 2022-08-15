@@ -6,7 +6,7 @@ public class CameraController : MonoBehaviour
 
 {
     public GameObject player;
-    private Vector3 offset = new Vector3(0, 5, -7);
+    private Vector3 offset = new Vector3(0, 20, -30);
     // Start is called before the first frame update
     void Start()
     {
