@@ -638,7 +638,7 @@ AnimatorController:
     m_Controller: {fileID: 0}
   - m_Name: Run
     m_Type: 1
-    m_DefaultFloat: 0
+    m_DefaultFloat: 1
     m_DefaultInt: 0
     m_DefaultBool: 0
     m_Controller: {fileID: 0}
@@ -1437,7 +1437,7 @@ AnimatorStateMachine:
   m_EntryPosition: {x: 270, y: 110, z: 0}
   m_ExitPosition: {x: 260, y: 50, z: 0}
   m_ParentStateMachinePosition: {x: 800, y: 20, z: 0}
-  m_DefaultState: {fileID: -5932044791745285113}
+  m_DefaultState: {fileID: -5549694206554626768}
 --- !u!1102 &7689815303587224805
 AnimatorState:
   serializedVersion: 6
